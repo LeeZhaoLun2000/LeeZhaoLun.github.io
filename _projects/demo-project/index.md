@@ -8,7 +8,7 @@ skills:
 - Localisation
 - Construction
 
-main-image: /project2.jpg
+main-image: /final_arena_design.jpg
 ---
 
 ---
