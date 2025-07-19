@@ -1,16 +1,13 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: Navigation & Arena Design Project
+description:  We are currently working on a project about designing and creating a physical environment or an arena where the LIMO robot from AgileX robotics is able to perform certain functions like navigation, mapping, path planning and localisation to navigate the maze. Our maze design will be based on Changi Airport Terminal 2. We will also be programming our LIMO robot to navigate the mazes of other teams.
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+- Navigation
+- Mapping
+- Localisation
+- Construction
+
 
 main-image: /project2.jpg
 ---
