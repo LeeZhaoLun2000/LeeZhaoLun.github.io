@@ -16,6 +16,7 @@ name: Lee Zhao Lun
 #headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
 I am a Robotics Systems student at SIT, passionate about building intelligent machines. My focus is on practical robotics applications, from autonomous navigation to industrial automation. I enjoy working with ROS, embedded systems, and AI for robotics, always looking to bridge theory with real-world solutions.
+
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/profile_pic.jpg
 
