@@ -8,7 +8,6 @@ skills:
 - Localisation
 - Construction
 
-
 main-image: /project2.jpg
 ---
 
